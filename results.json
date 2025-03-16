@@ -1,0 +1,14 @@
+[
+  {
+    "package": "pipdeptree",
+    "version": "2.24.0",
+    "pyproject_toml": true,
+    "setup_py": false
+  },
+  {
+    "package": "packaging",
+    "version": "24.2",
+    "pyproject_toml": true,
+    "setup_py": false
+  }
+]
